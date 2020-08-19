@@ -1,2 +1,5 @@
 # Aladin_TutorialShadowing
-It is powerful tutorial for not be used to pytorch concept . 
+This contents are helpful whoever not be used to pytorch concept . 
+
+source ; 
+Aladdin Persson 
